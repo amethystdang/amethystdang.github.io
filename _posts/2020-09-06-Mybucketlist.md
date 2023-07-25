@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Bucket List
-date: 2019-08-21
+date: 2020-09-06
 categories: 电影与文学
 tags: 艺术真假 life
 ---
