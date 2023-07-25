@@ -12,7 +12,7 @@
 
 ### 2.coming soon
 
-评论功能学习中... svg位图优化中...
+ svg位图优化中...
 
 ## channel
 
